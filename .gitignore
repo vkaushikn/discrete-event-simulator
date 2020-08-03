@@ -17,7 +17,7 @@ eggs/
 lib/
 lib64/
 parts/
-sdist/
+dist/
 var/
 wheels/
 pip-wheel-metadata/
@@ -25,6 +25,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.idea/
 MANIFEST
 
 # PyInstaller
